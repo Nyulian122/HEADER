@@ -7,8 +7,8 @@ let header1 = document.querySelector(".header");
 
 let header = `
 <img src="./img/descarga.jpg">
-<p>Titulo del header</p>
-<p>Titulo de la pagina</p>
+<p>Parqueo insane</p>
+<p>Vehiculos disponibles:</p>
 <nav>
     <ul>
         <li>item 1</li>
