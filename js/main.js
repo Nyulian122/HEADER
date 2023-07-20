@@ -6,16 +6,16 @@ let header1 = document.querySelector(".header");
 // Almacenar en una variable del contenido que quiero agregar
 
 let header = `
-<img src="./img/descarga.jpg">
-<p>Parqueo insane</p>
-<p>Vehiculos disponibles:</p>
+<img src="./img/descarga1.jpg">
+<p>Parqueo los insanos</p>
+<p>/</p>
 <nav>
     <ul>
-        <li>item 1</li>
-        <li>item 2</li>
-        <li>item 3</li>
-        <li>item 4</li>
-        <li>item 5</li>    
+        <li>🚗//Carro</li>
+        <li>🏍🛵//Moto</li>
+        <li>🛴//Monopatin</li>
+        <li>🚚//Pesado</li>
+        <li>🚕//Taxis</li>    
     </ul>
 </nav>
 `;

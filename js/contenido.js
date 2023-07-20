@@ -4,6 +4,6 @@
 let contentdom = document.querySelector(".contenido");
 
 let contenido = `
-<p>Seccion del contenido</p>
+<p>---</p>
 `
 contentdom.innerHTML = contenido;
