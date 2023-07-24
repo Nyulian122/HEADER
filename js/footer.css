@@ -1,0 +1,16 @@
+.footer {
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    
+}
+.contenedor_img {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.contenedor_img img {
+    width: 2rem;
+    height: 2rem;
+}
+

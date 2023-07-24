@@ -28,30 +28,7 @@ body {
 
 .contenido {
     padding: 20px;
-}
-
-.footer {
-    background-color: #d8d8d8;
-    color: #fff;
-    text-align: right;
-    padding: 10px;
-    position: fixed;
-    bottom: 0;
-    left: 10px;
-    width: calc(100% - 20px); /* Restar 20px al ancho para dar espacio a la imagen */
+    height: 25rem;
 }
 
 /* Estilos para los elementos <p> dentro del pie de página */
-.footer p {
-    display: flex;
-    left: 10px;
-    margin-right: 10px; /* Separación entre el texto y la imagen */
-    color: #000000;
-}
-
-/* Estilos para la imagen dentro del pie de página */
-.footer img {
-    width: 50px;
-    height: 50px;
-    float: right; /* Colocar la imagen a la derecha */
-}
